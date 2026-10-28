@@ -4,7 +4,7 @@ An applied machine-learning project exploring how to identify Systematic
 Investment Plans (SIPs) that may be discontinued, understand possible
 reasons, and support appropriate investor-retention actions.
 
-> **Project status:** Early research and data-discovery stage. No
+> **Project status:** Early research and data discovery stage. No
 > SIP-specific prediction model has been trained yet.
 
 ## Problem
